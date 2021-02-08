@@ -10,7 +10,7 @@ In free time between study Automation and Python, I love playing in the electric
 
 ### Projects
 
--[Bank Marketing](https://github.com/PatrykKotulak/Portfolio/tree/main/Bank_Marketing) -Analysis of data form bank in Portugal
+-[Bank Marketing](https://github.com/PatrykKotulak/Portfolio/tree/main/Bank_Marketing) -Analysis of data that are related with direct marketing campaigns of a Portuguese banking institution
 
 
 ### Languages

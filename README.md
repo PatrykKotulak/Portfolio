@@ -5,7 +5,7 @@ The rest of my time I devote to study Python language and world of data.
 
 In free time between study Automation and Python, I love playing the electric guitar.
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/patryk-kotulak-b84bb61bb/) || kotulak.patryk@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/patryk-kotulak/) || kotulak.patryk@gmail.com
 
 
 ### Projects

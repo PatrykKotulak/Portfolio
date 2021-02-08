@@ -2,7 +2,7 @@
 
 In the main path we can find two file, first is *Bank_Marketing.ipynb*. This file is the main file with code and description saved as *.ipynb*. The second file is *Bank_Marketing_Raport.pdf*. This file include raport of this project, without code. It is saved as *.pdf*.
 
-Data are store in *Datasets* directory, saved as *.csv* and *.txt*
+Data are store in *Datasets* directory, saved as *.csv* and *.txt*.
 
 In this project I analyze data related to direct marketing campaigns of a Portuguese banking institution. The main goal of this project is to better understand data for create classifier which will be correctly predicting classes.
 

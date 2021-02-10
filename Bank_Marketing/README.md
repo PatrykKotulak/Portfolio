@@ -2,7 +2,7 @@
 
 <img src="Images/Marketing.png">
 
-In the main path we can find two file, first is *Bank_Marketing.ipynb*. This file is the main file with code and description saved as *.ipynb*. The second file is *Bank_Marketing_Raport.pdf*. This file include raport of this project, without code. It is saved as *.pdf*.
+In the main path we can find two file, first is *Bank_Marketing.ipynb*. This file is the main file with code and description saved as *.ipynb*. The second file is *Bank Marketing Raport.pdf*. This file include raport of this project, without code. It is saved as *.pdf*.
 
 Data are store in *Datasets* directory, saved as *.csv* and *.txt*.
 
